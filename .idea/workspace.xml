@@ -18,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f6OEYMHHhJrzYU9xcBAdwGZwpY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,15 +31,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../intro-spring-mvc" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.trycatch">
-    <configuration name="AtributoEstatico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atributosemetodosestatico.AtributoEstatico" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaCoding" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Conjuntos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Conjuntos" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="atributosemetodosestatico.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -43,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetodoEstatico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atributosemetodosestatico.MetodoEstatico" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gameproject.view.Game" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="atributosemetodosestatico.*" />
+          <option name="PATTERN" value="gameproject.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="projectone.MusicSchool" />
+    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.HelloJava" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="projectone.*" />
+          <option name="PATTERN" value="fundamentos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operacao (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.Operacao" />
+    <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.OperadoresAritmeticos" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaces.*" />
+          <option name="PATTERN" value="fundamentos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trycatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tratamentodeerros.trycatch" />
+    <configuration name="OperadoresRelacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.OperadoresRelacionais" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tratamentodeerros.*" />
+          <option name="PATTERN" value="fundamentos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.trycatch" />
-        <item itemvalue="Application.MetodoEstatico" />
-        <item itemvalue="Application.AtributoEstatico" />
-        <item itemvalue="Application.MusicSchool" />
-        <item itemvalue="Application.Operacao (1)" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.OperadoresAritmeticos" />
+        <item itemvalue="Application.HelloJava" />
+        <item itemvalue="Application.OperadoresRelacionais" />
+        <item itemvalue="Application.Conjuntos" />
       </list>
     </recent_temporary>
   </component>
@@ -119,18 +131,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1596573841918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1596573841918" />
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1596465091944">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596465091944" />
-    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1596052610274">
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1598360851125">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1596052610274" />
-    <state x="479" y="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1596052612001">
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1598360851125" />
+    <state x="479" y="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1598360854261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1596052612001" />
+    <state x="479" y="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1598360854261" />
     <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1596552442118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -139,30 +155,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596158181053" />
-    <state width="1323" height="135" key="GridCell.Tab.0.bottom" timestamp="1596553667096">
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1598400431261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596553667096" />
-    <state width="1323" height="135" key="GridCell.Tab.0.center" timestamp="1596553667096">
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598400431261" />
+    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1598400431260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596553667096" />
-    <state width="1323" height="135" key="GridCell.Tab.0.left" timestamp="1596553667096">
+    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598400431260" />
+    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1598400431260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596553667096" />
-    <state width="1323" height="135" key="GridCell.Tab.0.right" timestamp="1596553667096">
+    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598400431260" />
+    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1598400431260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596553667096" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1595632859623">
+    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598400431260" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1597321843731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595632859623" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1596158068681">
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597321843731" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1597866335032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596158068681" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597866335032" />
     <state x="65" y="0" key="new project wizard" timestamp="1596227116602">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
