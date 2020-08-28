@@ -1,4 +1,4 @@
-package poo;
+package poo.objeto;
 
 public class Objeto {
     public static void main(String[] args) {

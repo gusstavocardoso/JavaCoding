@@ -41,13 +41,13 @@
       <recent name="C:\JavaCoding" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Game">
-    <configuration name="Conjuntos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Conjuntos" />
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="banco.view.Banco" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="banco.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.HelloJava" />
+    <configuration name="Mercado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Mercado" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentos.*" />
+          <option name="PATTERN" value="view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresRelacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.OperadoresRelacionais" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.heranca.Principal" />
       <module name="JavaCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentos.*" />
+          <option name="PATTERN" value="poo.heranca.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.Banco" />
+        <item itemvalue="Application.Mercado" />
         <item itemvalue="Application.Game" />
         <item itemvalue="Application.OperadoresAritmeticos" />
-        <item itemvalue="Application.HelloJava" />
-        <item itemvalue="Application.OperadoresRelacionais" />
-        <item itemvalue="Application.Conjuntos" />
       </list>
     </recent_temporary>
   </component>
@@ -135,10 +135,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1596573841918" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1596465091944">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1598623141667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596465091944" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1598623141667" />
     <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1598360851125">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -155,22 +155,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596158181053" />
-    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1598400431261">
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1598623693707">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598400431261" />
-    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1598400431260">
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598623693707" />
+    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1598623693707">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598400431260" />
-    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1598400431260">
+    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598623693707" />
+    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1598623693707">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598400431260" />
-    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1598400431260">
+    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598623693707" />
+    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1598623693707">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598400431260" />
+    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598623693707" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1597321843731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -183,9 +183,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1596227116602" />
-    <state x="346" y="49" key="search.everywhere.popup" timestamp="1596226955211">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598622058503">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596226955211" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598622058503" />
   </component>
 </project>

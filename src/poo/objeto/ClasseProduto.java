@@ -1,4 +1,4 @@
-package poo;
+package poo.objeto;
 
 public class ClasseProduto {
     String nome;
